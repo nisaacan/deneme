@@ -4,4 +4,3 @@
 fsdffasf
 dsfdsfsfs
 
-[lorem.ipsum](http://google.com)
