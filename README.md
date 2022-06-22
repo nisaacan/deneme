@@ -1,7 +1,7 @@
-#Deneme
+# Deneme
 
-##Alt Bilgi
+## Alt Bilgi
 fsdffasf
 dsfdsfsfs
 
-[lorem ipsum](http://google.com)
+[lorem.ipsum](http://google.com)
